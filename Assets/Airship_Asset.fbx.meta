@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: f09aa61ea675b904097cd659344e448f
+timeCreated: 1447030813
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back_Cannon
+    100004: Back_Cannon 1
+    100006: Back_Right_Jet2_pCube11
+    100008: Back_Right_Jet2_pCube2
+    100010: Back_Right_Jet2_pCube26
+    100012: Back_Right_Jet2_pCube34
+    100014: Back_Right_Jet2_pCube35
+    100016: Back_Right_Jet2_pCube36
+    100018: Back_Sail
+    100020: Barrel
+    100022: Base
+    100024: Body
+    100026: Cabin
+    100028: Flaps
+    100030: Flaps 1
+    100032: Front_Cannon
+    100034: Front_Cannon 1
+    100036: Front_Sail
+    100038: Furnace3
+    100040: Furnace4
+    100042: group10
+    100044: group4_group3
+    100046: group4_group3 1
+    100048: group4_group3 2
+    100050: group4_group3 3
+    100052: group4_pCube3453
+    100054: group4_pCube3453 1
+    100056: group4_pCube3453 2
+    100058: group4_pCube3453 3
+    100060: group5
+    100062: group5 1
+    100064: group7
+    100066: group7 1
+    100068: group9
+    100070: Heating_System1
+    100072: Heating_System1 1
+    100074: Heating_System1 2
+    100076: Heating_System1 3
+    100078: Heating_System2
+    100080: Hull
+    100082: Jet1
+    100084: Jet2
+    100086: Left_Jet
+    100088: Left_Jet_System
+    100090: Left_Pipe_Support
+    100092: Left_Pipes
+    100094: Left_Railing
+    100096: Left_Side_Cannons
+    100098: Main_Sail
+    100100: Main_Turret
+    100102: Middle_Cannon
+    100104: Middle_Cannon 1
+    100106: pCube2752
+    100108: pCube2781
+    100110: pCube2782
+    100112: pCube3144
+    100114: pCube3145
+    100116: pCube3390
+    100118: pCube3392
+    100120: pCube3400
+    100122: pCube85
+    100124: pCube85 1
+    100126: pCube85 2
+    100128: pCube85 3
+    100130: pCube85 4
+    100132: pCube85 5
+    100134: pCylinder14
+    100136: pCylinder14 1
+    100138: pCylinder14 2
+    100140: pCylinder14 3
+    100142: pCylinder14 4
+    100144: pCylinder14 5
+    100146: pCylinder269
+    100148: pCylinder285
+    100150: pCylinder287
+    100152: pCylinder29
+    100154: pCylinder299
+    100156: pCylinder311
+    100158: pCylinder322
+    100160: pCylinder332
+    100162: pCylinder342
+    100164: pCylinder343
+    100166: pCylinder377
+    100168: pCylinder5
+    100170: pCylinder86
+    100172: polySurface10
+    100174: Ram
+    100176: Ram 1
+    100178: Ram_Support
+    100180: Right_Jet
+    100182: Right_Jet_System
+    100184: Right_Pipe_Support
+    100186: Right_Pipes
+    100188: Right_Railing
+    100190: Right_Side_Cannons
+    100192: Rotation_Mech
+    100194: Rotation_Mech 1
+    100196: Support_Board
+    100198: Support_Board 1
+    100200: Support_Board 2
+    100202: Support_Board 3
+    100204: Tail_Fin
+    100206: Tail_Fin 1
+    100208: Under_Fin
+    100210: Under_Fin_pCube82
+    100212: Vent
+    100214: Vent 1
+    100216: Vents
+    100218: Vents 1
+    100220: Vents 2
+    100222: Vents 3
+    100224: Vertical_Mech
+    400000: //RootNode
+    400002: Back_Cannon
+    400004: Back_Cannon 1
+    400006: Back_Right_Jet2_pCube11
+    400008: Back_Right_Jet2_pCube2
+    400010: Back_Right_Jet2_pCube26
+    400012: Back_Right_Jet2_pCube34
+    400014: Back_Right_Jet2_pCube35
+    400016: Back_Right_Jet2_pCube36
+    400018: Back_Sail
+    400020: Barrel
+    400022: Base
+    400024: Body
+    400026: Cabin
+    400028: Flaps
+    400030: Flaps 1
+    400032: Front_Cannon
+    400034: Front_Cannon 1
+    400036: Front_Sail
+    400038: Furnace3
+    400040: Furnace4
+    400042: group10
+    400044: group4_group3
+    400046: group4_group3 1
+    400048: group4_group3 2
+    400050: group4_group3 3
+    400052: group4_pCube3453
+    400054: group4_pCube3453 1
+    400056: group4_pCube3453 2
+    400058: group4_pCube3453 3
+    400060: group5
+    400062: group5 1
+    400064: group7
+    400066: group7 1
+    400068: group9
+    400070: Heating_System1
+    400072: Heating_System1 1
+    400074: Heating_System1 2
+    400076: Heating_System1 3
+    400078: Heating_System2
+    400080: Hull
+    400082: Jet1
+    400084: Jet2
+    400086: Left_Jet
+    400088: Left_Jet_System
+    400090: Left_Pipe_Support
+    400092: Left_Pipes
+    400094: Left_Railing
+    400096: Left_Side_Cannons
+    400098: Main_Sail
+    400100: Main_Turret
+    400102: Middle_Cannon
+    400104: Middle_Cannon 1
+    400106: pCube2752
+    400108: pCube2781
+    400110: pCube2782
+    400112: pCube3144
+    400114: pCube3145
+    400116: pCube3390
+    400118: pCube3392
+    400120: pCube3400
+    400122: pCube85
+    400124: pCube85 1
+    400126: pCube85 2
+    400128: pCube85 3
+    400130: pCube85 4
+    400132: pCube85 5
+    400134: pCylinder14
+    400136: pCylinder14 1
+    400138: pCylinder14 2
+    400140: pCylinder14 3
+    400142: pCylinder14 4
+    400144: pCylinder14 5
+    400146: pCylinder269
+    400148: pCylinder285
+    400150: pCylinder287
+    400152: pCylinder29
+    400154: pCylinder299
+    400156: pCylinder311
+    400158: pCylinder322
+    400160: pCylinder332
+    400162: pCylinder342
+    400164: pCylinder343
+    400166: pCylinder377
+    400168: pCylinder5
+    400170: pCylinder86
+    400172: polySurface10
+    400174: Ram
+    400176: Ram 1
+    400178: Ram_Support
+    400180: Right_Jet
+    400182: Right_Jet_System
+    400184: Right_Pipe_Support
+    400186: Right_Pipes
+    400188: Right_Railing
+    400190: Right_Side_Cannons
+    400192: Rotation_Mech
+    400194: Rotation_Mech 1
+    400196: Support_Board
+    400198: Support_Board 1
+    400200: Support_Board 2
+    400202: Support_Board 3
+    400204: Tail_Fin
+    400206: Tail_Fin 1
+    400208: Under_Fin
+    400210: Under_Fin_pCube82
+    400212: Vent
+    400214: Vent 1
+    400216: Vents
+    400218: Vents 1
+    400220: Vents 2
+    400222: Vents 3
+    400224: Vertical_Mech
+    2300000: Back_Right_Jet2_pCube11
+    2300002: Back_Right_Jet2_pCube2
+    2300004: Back_Right_Jet2_pCube26
+    2300006: Back_Right_Jet2_pCube34
+    2300008: Back_Right_Jet2_pCube35
+    2300010: Back_Right_Jet2_pCube36
+    2300012: Furnace3
+    2300014: group4_group3
+    2300016: group4_group3 1
+    2300018: group4_group3 2
+    2300020: group4_group3 3
+    2300022: group4_pCube3453
+    2300024: group4_pCube3453 1
+    2300026: group4_pCube3453 2
+    2300028: group4_pCube3453 3
+    2300030: pCube2752
+    2300032: pCube2781
+    2300034: pCube2782
+    2300036: pCube3144
+    2300038: pCube3145
+    2300040: pCube3390
+    2300042: pCube3392
+    2300044: pCube3400
+    2300046: pCube85
+    2300048: pCube85 1
+    2300050: pCube85 2
+    2300052: pCube85 3
+    2300054: pCube85 4
+    2300056: pCube85 5
+    2300058: pCylinder14
+    2300060: pCylinder14 1
+    2300062: pCylinder14 2
+    2300064: pCylinder14 3
+    2300066: pCylinder14 4
+    2300068: pCylinder14 5
+    2300070: pCylinder269
+    2300072: pCylinder285
+    2300074: pCylinder287
+    2300076: pCylinder29
+    2300078: pCylinder299
+    2300080: pCylinder311
+    2300082: pCylinder322
+    2300084: pCylinder332
+    2300086: pCylinder342
+    2300088: pCylinder343
+    2300090: pCylinder377
+    2300092: pCylinder5
+    2300094: pCylinder86
+    2300096: polySurface10
+    2300098: Under_Fin_pCube82
+    3300000: Back_Right_Jet2_pCube11
+    3300002: Back_Right_Jet2_pCube2
+    3300004: Back_Right_Jet2_pCube26
+    3300006: Back_Right_Jet2_pCube34
+    3300008: Back_Right_Jet2_pCube35
+    3300010: Back_Right_Jet2_pCube36
+    3300012: Furnace3
+    3300014: group4_group3
+    3300016: group4_group3 1
+    3300018: group4_group3 2
+    3300020: group4_group3 3
+    3300022: group4_pCube3453
+    3300024: group4_pCube3453 1
+    3300026: group4_pCube3453 2
+    3300028: group4_pCube3453 3
+    3300030: pCube2752
+    3300032: pCube2781
+    3300034: pCube2782
+    3300036: pCube3144
+    3300038: pCube3145
+    3300040: pCube3390
+    3300042: pCube3392
+    3300044: pCube3400
+    3300046: pCube85
+    3300048: pCube85 1
+    3300050: pCube85 2
+    3300052: pCube85 3
+    3300054: pCube85 4
+    3300056: pCube85 5
+    3300058: pCylinder14
+    3300060: pCylinder14 1
+    3300062: pCylinder14 2
+    3300064: pCylinder14 3
+    3300066: pCylinder14 4
+    3300068: pCylinder14 5
+    3300070: pCylinder269
+    3300072: pCylinder285
+    3300074: pCylinder287
+    3300076: pCylinder29
+    3300078: pCylinder299
+    3300080: pCylinder311
+    3300082: pCylinder322
+    3300084: pCylinder332
+    3300086: pCylinder342
+    3300088: pCylinder343
+    3300090: pCylinder377
+    3300092: pCylinder5
+    3300094: pCylinder86
+    3300096: polySurface10
+    3300098: Under_Fin_pCube82
+    4300000: pCylinder377
+    4300002: pCylinder29
+    4300004: pCube3390
+    4300006: pCylinder311
+    4300008: pCube2752
+    4300010: Back_Right_Jet2_pCube35
+    4300012: Back_Right_Jet2_pCube36
+    4300014: Back_Right_Jet2_pCube34
+    4300016: pCylinder86
+    4300018: pCube2782
+    4300020: pCylinder299
+    4300022: pCube2781
+    4300024: Back_Right_Jet2_pCube11
+    4300026: Back_Right_Jet2_pCube26
+    4300028: Back_Right_Jet2_pCube2
+    4300030: Under_Fin_pCube82
+    4300032: polySurface10
+    4300034: pCube3392
+    4300036: pCylinder322
+    4300038: pCylinder269
+    4300040: pCylinder287
+    4300042: pCylinder332
+    4300044: pCylinder285
+    4300046: pCube3144
+    4300048: pCylinder5
+    4300050: pCylinder343
+    4300052: pCube3145
+    4300054: pCylinder342
+    4300056: pCylinder14
+    4300058: pCube85
+    4300060: pCylinder14
+    4300062: pCube85
+    4300064: pCylinder14
+    4300066: pCube85
+    4300068: pCylinder14
+    4300070: pCube85
+    4300072: pCylinder14
+    4300074: pCube85
+    4300076: pCylinder14
+    4300078: pCube85
+    4300080: group4_pCube3453
+    4300082: group4_group3
+    4300084: group4_pCube3453
+    4300086: group4_group3
+    4300088: group4_pCube3453
+    4300090: group4_group3
+    4300092: group4_pCube3453
+    4300094: group4_group3
+    4300096: Furnace3
+    4300098: pCube3400
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
